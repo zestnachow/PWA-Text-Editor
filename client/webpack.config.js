@@ -30,7 +30,7 @@ module.exports = () => {
         short_name: "JATE",
         description: "PWA Text Editor",
         background_color: "#F08080",
-        theme_color: "F08080",
+        theme_color: "#F08080",
         start_url: "./",
         publicPath: "./",
         icons: [
